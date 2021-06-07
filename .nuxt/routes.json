@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ask",
+    "path": "/ask",
+    "component": "/Users/MZ01-MJOO/Documents/GitHub/Nuxt-hackerNews/pages/ask.vue",
+    "chunkName": "pages/ask",
+    "_name": "_2dc3ca40"
+  },
+  {
+    "name": "jobs",
+    "path": "/jobs",
+    "component": "/Users/MZ01-MJOO/Documents/GitHub/Nuxt-hackerNews/pages/jobs.vue",
+    "chunkName": "pages/jobs",
+    "_name": "_5257281f"
+  },
+  {
+    "name": "event-imagine05",
+    "path": "/event/imagine05",
+    "component": "/Users/MZ01-MJOO/Documents/GitHub/Nuxt-hackerNews/pages/event/imagine05.vue",
+    "chunkName": "pages/event/imagine05",
+    "_name": "_e1c7f526"
+  },
+  {
+    "name": "event-slug",
+    "path": "/event/:slug?",
+    "component": "/Users/MZ01-MJOO/Documents/GitHub/Nuxt-hackerNews/pages/event/_slug.vue",
+    "chunkName": "pages/event/_slug",
+    "_name": "_f1e7bac8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/MZ01-MJOO/Documents/GitHub/Nuxt-hackerNews/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5242f459"
+  },
+  {
+    "name": "slug",
+    "path": "/:slug",
+    "component": "/Users/MZ01-MJOO/Documents/GitHub/Nuxt-hackerNews/pages/_slug/index.vue",
+    "chunkName": "pages/_slug/index",
+    "_name": "_184eee58"
+  }
+]
