@@ -20,7 +20,7 @@ export default {
   data () {
     return {
       navList: [
-        { value: 'news', name: 'News', path: '/' },
+        { value: 'news', name: 'News', path: '/news' },
         { value: 'ask', name: 'Ask', path: '/ask' },
         { value: 'Jobs', name: 'Jobs', path: '/jobs' }
       ]
@@ -30,6 +30,21 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
+ul {
+  display: flex;
+}
+li {
+ list-style: none;
+ font-size: 20px;
+}
+li + li {
+  margin-left: 20px;
+}
 
+ a {
+   text-decoration: none;
+   color: #000;
+   font-weight: bold;
+ }
 </style>

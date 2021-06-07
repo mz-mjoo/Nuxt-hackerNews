@@ -1,4 +1,7 @@
 {
+  "Comment": {
+    "description": "Auto imported from components/Comment.vue"
+  },
   "Header": {
     "description": "Auto imported from components/Header.vue"
   },
