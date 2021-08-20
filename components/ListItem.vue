@@ -12,9 +12,9 @@
           {{ list.title }}
         </a>
         <router-link
-        class="comment"
+          class="comment"
          :to="`/${title}/${list.id}`">
-          <span>{{ list.comments_count }}</span>
+          <span>{{ listcomments_count }}</span>
         </router-link>
       </li>
     </ul>
